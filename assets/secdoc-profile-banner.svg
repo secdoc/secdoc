@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+  <title id="title">SecDoc, security made simple</title>
+  <desc id="desc">An amber matrix S mark beside the SecDoc name on a dark technical grid.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07090c"/>
+      <stop offset="0.58" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#111820"/>
+    </linearGradient>
+    <linearGradient id="amber" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffd166"/>
+      <stop offset="1" stop-color="#f5a623"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#f5b83d" stroke-opacity="0.055" stroke-width="1"/>
+    </pattern>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1280" height="360" rx="20" fill="url(#bg)"/>
+  <rect width="1280" height="360" rx="20" fill="url(#grid)"/>
+  <path d="M0 300 C260 245 420 345 675 292 S1040 220 1280 280" fill="none" stroke="#f5b83d" stroke-opacity="0.12" stroke-width="2"/>
+  <path d="M0 318 C250 270 445 360 700 310 S1045 248 1280 302" fill="none" stroke="#f5b83d" stroke-opacity="0.07" stroke-width="1"/>
+  <g transform="translate(92 78)" fill="url(#amber)" filter="url(#glow)">
+    <circle cx="12" cy="12" r="8"/><circle cx="40" cy="12" r="8"/><circle cx="68" cy="12" r="8"/><circle cx="96" cy="12" r="8"/><circle cx="124" cy="12" r="8"/>
+    <circle cx="12" cy="40" r="8"/><circle cx="40" cy="40" r="8"/><circle cx="68" cy="40" r="8"/><circle cx="96" cy="40" r="8"/><circle cx="124" cy="40" r="8"/>
+    <circle cx="12" cy="68" r="8"/><circle cx="40" cy="68" r="8"/><circle cx="68" cy="68" r="8"/>
+    <circle cx="12" cy="96" r="8"/><circle cx="40" cy="96" r="8"/><circle cx="68" cy="96" r="8"/><circle cx="96" cy="96" r="8"/><circle cx="124" cy="96" r="8"/>
+    <circle cx="68" cy="124" r="8"/><circle cx="96" cy="124" r="8"/><circle cx="124" cy="124" r="8"/>
+    <circle cx="12" cy="152" r="8"/><circle cx="40" cy="152" r="8"/><circle cx="68" cy="152" r="8"/><circle cx="96" cy="152" r="8"/><circle cx="124" cy="152" r="8"/>
+    <circle cx="12" cy="180" r="8"/><circle cx="40" cy="180" r="8"/><circle cx="68" cy="180" r="8"/><circle cx="96" cy="180" r="8"/><circle cx="124" cy="180" r="8"/>
+  </g>
+  <line x1="270" y1="82" x2="270" y2="278" stroke="#f5b83d" stroke-opacity="0.35"/>
+  <text x="330" y="160" fill="#f5b83d" font-family="Arial, Helvetica, sans-serif" font-size="84" font-weight="800" letter-spacing="-3">secdoc</text>
+  <text x="334" y="208" fill="#f2f4f7" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="500" letter-spacing="5">SECURITY MADE SIMPLE</text>
+  <text x="334" y="252" fill="#9ba7b4" font-family="Arial, Helvetica, sans-serif" font-size="18" letter-spacing="1">ARCHITECTURE  •  ENGINEERING  •  OPERATIONS</text>
+  <g transform="translate(1115 64)" fill="none" stroke="#f5b83d" stroke-opacity="0.5">
+    <path d="M0 34h50l15 15h54"/><circle cx="0" cy="34" r="4" fill="#f5b83d"/>
+    <path d="M20 0v18l15 15"/><circle cx="20" cy="0" r="4" fill="#f5b83d"/>
+    <path d="M119 49v48l-18 18v48"/><circle cx="101" cy="163" r="4" fill="#f5b83d"/>
+  </g>
+  <rect x="1" y="1" width="1278" height="358" rx="19" fill="none" stroke="#f5b83d" stroke-opacity="0.25" stroke-width="2"/>
+</svg>
