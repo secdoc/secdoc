@@ -31,7 +31,7 @@ My work starts where diagrams and control language meet real systems. I publish 
 >
 > An architect's guide to designing, building, and defending the modern enterprise. Published by Packt in 2026, it connects architecture principles to the technical, organizational, and leadership decisions that shape a working security program.
 
-[Read about the book at secdoc.tech](https://secdoc.tech/the-cybersecurity-architects-handbook-2/) · [Get it on Amazon](https://www.amazon.com/Cybersecurity-Architects-Handbook-architects-enterprise/dp/180610539X)
+[Read about the book at secdoc.tech](https://secdoc.tech/its-official-cybersecurity-architects-handbook-second-edition-is-now-available-for-pre-order/) · [Get it on Amazon](https://www.amazon.com/Cybersecurity-Architects-Handbook-architects-enterprise/dp/180610539X)
 
 ## Start here
 
