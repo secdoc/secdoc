@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://secdoc.tech"><img src="assets/secdoc-profile-banner.svg" alt="SecDoc, security made simple" width="100%"></a>
+  <a href="https://secdoc.tech"><img src="assets/secdoc-profile-banner.svg" alt="SecDoc logo, Security Made Simple, Architecture, Engineering, and Operations" width="100%"></a>
 </p>
 
 <p align="center">
