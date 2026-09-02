@@ -94,3 +94,8 @@ My work starts where diagrams and control language meet real systems. I publish 
 ---
 
 Code and configuration are licensed under [Apache License 2.0](LICENSE). Documentation, guides, and diagrams are licensed under [CC BY 4.0](LICENSE-docs). Attribution is required. See [LICENSING.md](LICENSING.md) and [NOTICE](NOTICE).
+
+## GitLab CI baseline
+
+GitLab CI runs repository integrity validation and centralized ClamAV scanning on the isolated `phase4-untrusted` runner. The baseline validates tracked Python syntax, shell syntax, and JSON parsing without direct Internet access. Repository-specific build and test gates remain additive to this baseline.
+
