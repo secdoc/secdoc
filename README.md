@@ -38,6 +38,7 @@ My work starts where diagrams and control language meet real systems. I publish 
 | Project | What it gives you |
 |:--|:--|
 | **[SOC Pipeline](https://github.com/secdoc/soc-pipeline-public)** | An end-to-end, IaC-deployed security operations pipeline that correlates network, DNS, endpoint, identity, and vulnerability telemetry, with AI enrichment, SOAR, and DFIR workflows. |
+| **[DevSecOps Pipeline](https://github.com/secdoc/devsecops-pipeline-public)** | A sanitized, buildable reference for a self-hosted delivery plane that isolates untrusted builds, validates source and dependencies, produces SBOM and policy evidence, and promotes immutable artifacts. |
 | **[AI Agent Skills](https://github.com/secdoc/AI-Agent-Skills)** | Practitioner-built skills for cybersecurity architecture, threat modeling, application and code security, networking, Linux, Windows, firewall engineering, and executive reporting. |
 | **[WAF to SIEM](https://github.com/secdoc/socfortress-waf-siem)** | A first-class WAF detection lane from Caddy, Coraza, and OWASP CRS into Wazuh and Graylog, including collection, normalization, detections, and dashboards. |
 | **[Greenbone to Wazuh and Graylog](https://github.com/secdoc/greenbone-wazuh-graylog)** | A read-only Greenbone/OpenVAS collector with normalized vulnerability findings, Wazuh rules, and dashboard content. |
