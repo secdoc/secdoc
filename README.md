@@ -33,8 +33,6 @@ My work starts where diagrams and control language meet real systems. I publish 
 
 [Read about the book at secdoc.tech](https://secdoc.tech/two-books-for-the-price-of-one-the-cybersecurity-architects-handbook-second-edition-and-the-capstone-lab-that-builds-an-ai-powered-soc/) · [Get it on Amazon](https://www.amazon.com/Cybersecurity-Architects-Handbook-architects-enterprise/dp/180610539X)
 
-https://www.youtube.com/watch?v=LBrOctrAFa8
-
 ## Start here
 
 | Project | What it gives you |
